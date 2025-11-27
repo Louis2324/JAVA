@@ -1,4 +1,4 @@
-package threads;
+package threads.dualThreads;
 
 public class PersonMain {
     public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class PersonMain {
 
         try{
             for(int i = 5 ; i >  0; i--) {
-                System.out.println("Main Thread"+ i);
+                System.out.println("Main Thread: "+ i);
                 Thread.sleep(1000);
             }
         }catch (InterruptedException e) {

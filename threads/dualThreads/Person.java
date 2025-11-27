@@ -1,4 +1,4 @@
-package threads;
+package threads.dualThreads;
 
 class Person  implements Runnable {
     public void run() {
