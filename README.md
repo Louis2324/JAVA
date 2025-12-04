@@ -1,34 +1,45 @@
+
 # Java Learning Repository
 
-This repository is dedicated to learning and mastering **Java fundamentals** and its **core Object-Oriented concepts**.  
-It serves as a hands-on playground for building a solid understanding of Java syntax, paradigms, and essential APIs that form the backbone of modern Java development.
+This repository is dedicated to tracking my progress while learning **Java fundamentals** and **core Object-Oriented concepts**.
+It serves as a hands-on workspace for building a strong understanding of Java syntax, paradigms, and essential APIs.
 
 ---
 
-## 📚 Contents
+##  Topics Included
 
-- **Java Basics:** Syntax, variables, conditionals, loops, and methods  
-- **Object-Oriented Programming (OOP):** Classes, objects, inheritance, polymorphism, abstraction, and encapsulation  
-- **Exceptions:** Handling runtime errors with `try-catch`, custom exceptions, and best practices  
-- **Streams:** Functional-style operations on data using the Java Stream API  
-- **Collections:** Working with Lists, Sets, Maps, Queues, and their implementations  
+The repository currently covers the following topics, each organized in its own folder:
 
----
+* Enums
+* Threads
+* Regex
+* Lambda Expressions
+* Collections
+* I/O
+* Exceptions
+* Object-Oriented Programming (OOP)
 
-## 🛠️ Skills Practiced
-
-- Java Programming Fundamentals  
-- Object-Oriented Design  
-- Functional Programming with Streams  
-- Exception Handling and Debugging  
-- Working with the Java Collections Framework  
+The folder structure is self-explanatory and reflects the organization of the course.
 
 ---
 
-## 🚀 How to Run
+##  Skills Practiced
 
-Each Java file is self-contained and can be compiled and executed individually.
+* Java Programming Fundamentals
+* Object-Oriented Design
+* Functional Programming (Streams & Lambdas)
+* Exception Handling and Debugging
+* Working with the Java Collections Framework
+
+---
+
+##  How to Run
+
+Each Java file is self-contained and can be compiled and executed individually:
 
 ```bash
 javac <filename>.java
 java <MainClassName>
+```
+
+---
