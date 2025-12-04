@@ -10,7 +10,7 @@ public class DateValidator {
         Matcher mat = pat.matcher(date);
 
         if (mat.matches()) {
-            return mat.replaceAll("$3-$2-$1");
+            return pat.matcher(date).replaceAll("$3-$2-$1");
         }else {
             return "Invalid input (Enter a date of format DD-MM-YYYY";
         }
