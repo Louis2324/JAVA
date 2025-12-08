@@ -1,0 +1,1 @@
+Same thing again just with buffers and this should be slightly faster since we have little text , but it's generally faster than regular IO
