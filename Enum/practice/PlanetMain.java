@@ -9,7 +9,7 @@ public class PlanetMain {
 
 
         for (Planet p : Planet.values()) {
-            System.out.println("Your weight on " + p.name() + " is: " + p.surfaceWeight(mass));
+            System.out.println("Your weight on " + p.name().substring(0, 1).toUpperCase() + p.name().substring(1).toLowerCase() + " is: " + p.surfaceWeight(mass));
         }
     }
 
