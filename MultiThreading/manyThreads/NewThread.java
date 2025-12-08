@@ -1,4 +1,4 @@
-package threads.manyThreads;
+package MultiThreading.manyThreads;
 
 class NewThread  implements Runnable {
     String name;

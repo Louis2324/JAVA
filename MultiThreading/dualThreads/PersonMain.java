@@ -1,4 +1,4 @@
-package threads.dualThreads;
+package MultiThreading.dualThreads;
 
 public class PersonMain {
     public static void main(String[] args) {

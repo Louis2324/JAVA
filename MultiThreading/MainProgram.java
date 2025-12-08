@@ -1,4 +1,4 @@
-package threads;
+package MultiThreading;
 
 public class MainProgram {
     public static void main (String[] args) {

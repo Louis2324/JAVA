@@ -1,4 +1,4 @@
-package threads.threadClass;
+package MultiThreading.threadClass;
 
 class Person  extends Thread {
     public void run() {

@@ -1,4 +1,4 @@
-package threads.synch;
+package MultiThreading.synch;
 
 public class MainProgram {
 }
